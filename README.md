@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sensei69
+- 👋 Hi, I’m @Sensei
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning python/java/c++
 - 💞️ I’m looking to collaborate on ...
